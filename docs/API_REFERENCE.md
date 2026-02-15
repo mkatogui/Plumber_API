@@ -404,5 +404,5 @@ This API currently does not implement versioning. Future versions may use:
 
 For questions or issues:
 - Open an issue on [GitHub](https://github.com/mkatogui/Plumber_API/issues)
-- Check the [FAQ](../guides/FAQ.md)
-- Review [Getting Started Guide](../guides/GETTING_STARTED.md)
+- Check the [FAQ](guides/FAQ.md)
+- Review [Getting Started Guide](guides/GETTING_STARTED.md)

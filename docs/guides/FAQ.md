@@ -185,7 +185,7 @@ function(req, res) {
 ### Can I deploy this to the cloud?
 
 Yes! See our deployment guides:
-- [Docker Deployment](deployment/DOCKER.md)
+- [Docker Deployment](../deployment/DOCKER.md)
 - Cloud platforms: AWS, Google Cloud, Azure, Heroku
 
 ### What are the hardware requirements?
@@ -242,7 +242,7 @@ GDP = Population × GDP per Capita
 
 ### Can I contribute to this project?
 
-Yes! See [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines.
+Yes! See [CONTRIBUTING.md](../../CONTRIBUTING.md) for guidelines.
 
 ### What coding standards should I follow?
 
@@ -359,7 +359,7 @@ Typical performance:
 
 ## Still Have Questions?
 
-- Check the [Getting Started Guide](guides/GETTING_STARTED.md)
-- Review the [API Reference](API_REFERENCE.md)
+- Check the [Getting Started Guide](GETTING_STARTED.md)
+- Review the [API Reference](../API_REFERENCE.md)
 - Open an issue on [GitHub](https://github.com/mkatogui/Plumber_API/issues)
 - Join discussions in [GitHub Discussions](https://github.com/mkatogui/Plumber_API/discussions)
